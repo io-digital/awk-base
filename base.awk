@@ -1,6 +1,6 @@
 BEGIN {
   # Field Separator
-  FS = ",";
+  FS = " ";
 
   # Record Separator (lines)
   RS = "\n";
